@@ -72,7 +72,8 @@ Double-click index.html or run with Live Server.
 
 🙌 Author
 
-Atul Chavan <br>
-Beginner Web Developer
+Atul Chavan
 <br>
 DevOps Engineer
+<br>
+Beginner Web Developer

@@ -7,7 +7,7 @@
 
 🎯 Win detection logic
 
-🔄 Game reset functionality
+🔄 Game reset functionality 
 
 📱 Responsive and clean UI
 

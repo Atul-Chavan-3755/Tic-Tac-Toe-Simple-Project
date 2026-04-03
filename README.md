@@ -5,7 +5,7 @@
 
 ✅ Two-player gameplay (Player X vs Player O)
 
-🎯 Win detection logic
+🎯 Win detection logic  
 
 🔄 Game reset functionality 
 

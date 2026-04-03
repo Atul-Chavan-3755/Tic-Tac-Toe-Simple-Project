@@ -13,7 +13,7 @@
 
 ⚡ Lightweight and fast (no libraries used)
 
-🛠️ Technologies Used
+🛠️ Technologies Used 
 
 HTML5 – Structure of the game
 

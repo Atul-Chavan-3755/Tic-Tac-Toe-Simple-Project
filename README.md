@@ -3,7 +3,7 @@
 <br>
 🚀 Features
 
-✅ Two-player gameplay (Player X vs Player O)
+✅ Two-player gameplay (Player X vs Player O) 
 
 🎯 Win detection logic  
 

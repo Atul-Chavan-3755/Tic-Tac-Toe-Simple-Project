@@ -11,7 +11,7 @@
 
 📱 Responsive and clean UI
 
-⚡ Lightweight and fast (no libraries used)
+⚡ Lightweight and fast (no libraries used) 
 
 🛠️ Technologies Used 
 

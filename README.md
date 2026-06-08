@@ -1,19 +1,18 @@
 # Tic-Tac-Toe-Game-Simple-Project
-🎮 Tic-Tac-Toe Game (HTML, CSS, JavaScript)  A simple and interactive Tic-Tac-Toe web game built using HTML, CSS, and JavaScript. This project demonstrates basic front-end development skills, DOM manipulation, and game logic implementation in a beginner-friendly way.
+Tic-Tac-Toe Game (HTML, CSS, JavaScript)  A simple and interactive Tic-Tac-Toe web game built using HTML, CSS, and JavaScript. This project demonstrates basic front-end development skills, DOM manipulation, and game logic implementation in a beginner-friendly way.
 <br>
-🚀 Features
+###Features
 
-✅ Two-player gameplay (Player X vs Player O) 
+Two-player gameplay (Player X vs Player O) 
 
-🎯 Win detection logic  
+Win detection logic  
 
-🔄 Game reset functionality 
+Game reset functionality 
 
-📱 Responsive and clean UI
+Responsive and clean UI
 
-⚡ Lightweight and fast (no libraries used) 
-
-🛠️ Technologies Used 
+Lightweight and fast (no libraries used) 
+Technologies Used 
 
 HTML5 – Structure of the game
 
@@ -21,7 +20,7 @@ CSS3 – Styling and layout
 
 JavaScript (Vanilla JS) – Game logic and interactivity
 
-🎯 How the Game Works
+##How the Game Works
 
 The game board consists of a 3×3 grid.
 
@@ -40,13 +39,13 @@ If all cells are filled without a winner, the game ends in a draw.
 
 The Reset button starts a new game.
 
-📂 Project Structure
+##Project Structure
 tic-tac-toe/
 │
 ├── index.html     # Game layout
 ├── style.css      # Game styling
 └── script.js      # Game logic
-▶️ How to Run Locally
+##How to Run Locally
 
 Clone the repository:
 
@@ -56,21 +55,21 @@ Open the project folder.
 
 Double-click index.html or run with Live Server.
 
-📸 Preview
+## Preview
 
 (You can add a screenshot of your game here)
 
-🌱 Future Improvements
+##Future Improvements
 
-🤖 Add AI opponent
+##Add AI opponent
 
-🎨 Add animations and sound effects
+###Add animations and sound effects
 
-🌐 Online multiplayer support
+###Online multiplayer support
 
-🏆 Scoreboard system
+###Scoreboard system
 
-🙌 Author
+### Author
 
 Atul Chavan
 <br>

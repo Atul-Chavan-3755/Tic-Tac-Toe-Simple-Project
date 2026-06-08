@@ -41,7 +41,7 @@ The Reset button starts a new game.
 
 Project Structure  
 tic-tac-toe/
-│
+│  
 ├── index.html     # Game layout
 ├── style.css      # Game styling
 └── script.js      # Game logic
@@ -59,9 +59,9 @@ Double-click index.html or run with Live Server.
 
 (You can add a screenshot of your game here)
 
-## Future Improvements
+### Future Improvements
 
-## Add AI opponent
+### Add AI opponent
 
 ### Add animations and sound effects
 
